@@ -1,5 +1,5 @@
 <include a CircleCI status badge, here>
-[![CircleCI](https://circleci.com/gh/circleci/circleci-docs/tree/teesloane-patch-5.svg?style=svg)](https://circleci.com/gh/circleci/circleci-docs/?branch=master)
+[![CircleCI](https://app.circleci.com/pipelines/github/timtac662/project4.svg?style=svg)](https://app.circleci.com/pipelines/github/timtac662/project4?branch=master)
 
 ## Project Overview
 
