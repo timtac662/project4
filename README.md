@@ -36,6 +36,11 @@ python3 -m virtualenv --python=<path-to-Python3.7> .devops
 source .devops/bin/activate
 ```
 * Run `make install` to install the necessary dependencies
+* Install hadolint to enable linting
+* Run `make lint` to lint the Dockerfile with hadolint
+* install virtualbox and minikube
+* Run `minikube start` to start using minikube
+* Run `kubectl get pods` to get a list of running pods
 
 ### Running `app.py`
 
