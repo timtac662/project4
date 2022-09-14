@@ -1,5 +1,5 @@
-<include a CircleCI status badge, here>
-[![CircleCI](https://app.circleci.com/pipelines/github/timtac662/project4.svg?style=svg)](https://app.circleci.com/pipelines/github/timtac662/project4?branch=master)
+
+[![timtac662](https://circleci.com/gh/timtac662/project4.svg?style=svg)](https://app.circleci.com/pipelines/github/timtac662/project4)
 
 ## Project Overview
 
